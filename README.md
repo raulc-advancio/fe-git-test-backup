@@ -1,4 +1,4 @@
-Welcome to the Front-end test.
+#Welcome to the Front-end test.#
 
 Is going to be very simple. We have a little gallery design.
 Your task is to create 3 different markups for this design.
@@ -11,7 +11,7 @@ Your task is to create 3 different markups for this design.
 
 In this master branch you have the behavior that is expected (gif) and the original pictures used for the design.
 
-# SUBMIT INSTRUCTIONS #
+## SUBMIT INSTRUCTIONS  ##
 In order to submit this challenge, we require you to configure a private GitHub repository and invite @raulc-advancio as collaborators. 
 We will fork your submission once it’s complete. No changes will be accepted after the fork so if there’s a last-minute change just save it for discussion. 
 Please include instructions for how to install and run your code. You must also list any system dependencies (e.g. Ruby 2.3, Erlang runtime, JDK8, etc.).
