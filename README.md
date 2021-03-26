@@ -1,4 +1,4 @@
-#Welcome to the Front-end test.#
+## Welcome to the Front-end test ##
 
 Is going to be very simple. We have a little gallery design.
 Your task is to create 3 different markups for this design.
